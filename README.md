@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Now we're making changes directly on github.
 
 Making another change to see how the 'pull' works.
+
+About to push this to the github
